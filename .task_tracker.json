@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for MasterMind Academy', 'description': 'Primary container for MasterMind Academy implementation: A fullstack learning app inspired by Brilliant, designed to help users master concepts in math, science, and computer science through interactive lessons, quizzes, and problem-solving activities. The app supports user progress tracking, gamification, and a clean, engaging UI.', 'framework': 'flutter', 'platform': 'mobile'}",
+  "tasks": {},
+  "next_task_id": 1
+}
